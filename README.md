@@ -24,15 +24,3 @@
   - [this website uses laravel passport so make sure it is installed].
   - [dashboard for both user and admin access made using laravel and vuejs in a simple way you can add other features].
 
-## From abdelhak  !!!  
-
-
-
-![main!](dash1.png)
-
-![main!](dash2.png)
-
-![main!](dash3.png)
-
-![main!](dash4.png)
-
